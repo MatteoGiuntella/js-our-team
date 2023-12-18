@@ -15,3 +15,25 @@
 
 
 
+let personale = [
+    {'name': 'Wayne Barnett',
+     'role' : 'Founder e CEO',
+    },
+    {'name': 'Angela Caroll',
+    'role' : 'Chief Editor',
+    },
+    {'name': 'Walter Gordon',
+   'role' : 'Office Manager	',
+    },
+    {'name': 'Angela Lopez',
+   'role' : 'Social Media Manager',
+    },
+    {'name': 'Scott Estrada',
+   'role' : 'Developer',
+    },
+    {'name': 'Barbara Ramos',
+   'role' : 'Graphic Designer',
+    },
+];
+
+console.log(personale)
